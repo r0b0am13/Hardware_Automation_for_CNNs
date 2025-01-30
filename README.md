@@ -4,6 +4,8 @@
 
 ## Current File Locations
 
- Verilog Testbenches in Vivado_File/Simulation_Sources. 
+ Verilog Testbenches in Vivado_File/Simulation_Sources.
+ 
  Verilog Design Files in Vivado_Files/Design_Sources.
+ 
  Trained CNN with respective saved models and parameters in CNN_Files.
